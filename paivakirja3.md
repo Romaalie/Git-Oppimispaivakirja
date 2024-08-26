@@ -29,6 +29,6 @@ Opintojakso toimi minulle hyvänä git refresher kurssina kesän jälkeen ja tar
 
 Työmäärältään kurssi ohi hyvin kohtuullinen, mutta tarjoaa silti hyvät lähtökohdat git versionhallinnan parissa työskentelyyn yksin ja osana projektitiimiä.
 
-Erityisen hauska osuus oli harjoituksen 6 virtuaalisen tiimikaverin kanssa työskentely, joskaan en ole vielä ihan varma kuinka tarkasti lopputuloksen piti vastata ohjeissa esitettyä [kuvaa](https://mruonavaara.github.io/git-versionhallinta/assets/hei_maailma_lopputulos.png) (kello ja taustakuva).
+Erityisen hauska osuus oli harjoituksen 6 virtuaalisen tiimikaverin kanssa työskentely, ~~joskaan en ole vielä ihan varma kuinka tarkasti lopputuloksen piti vastata ohjeissa esitettyä [kuvaa](https://mruonavaara.github.io/git-versionhallinta/assets/hei_maailma_lopputulos.png) (kello ja taustakuva).~~ No niin saihan sieltä vihdoin imettyä uuden päivityksen.
 
 [Ulkoinen oppimateriaali](https://mruonavaara.github.io/git-versionhallinta/) imi niin tehokkaasti mukaan, että oppimispäiväkirja tuli hiukan myöhässä mukaan kuvioihin, jos tarkoitus oli tehdä sitä täysin samaan aikaan kuin harjoituksia. Tämä saattoi olla kyllä vain henkilökohtainen ongelma.
