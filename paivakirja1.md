@@ -2,7 +2,9 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Kaikki oli suhteellisen helppoa. Hyvin jäsennelty ohjeistus antoi kuitenkin tilaisuuden harjoitella uudessa repositoriossa asioita joita en ollut ennen kokeillut kuten committien perumista (git revert) ja aiempien committien tarkastelua (git checkout *commit hash*). Myös git log oli uusi tuttavuus, aiemmin olen tarkastellut commit historiaa vain GitHubin GUI:n avulla.
+Kaikki oli suhteellisen helppoa, mutta hetki piti miettiä miten pääsen käsiksi tähän päiväkirja haaraan vaikka se lopulta hyvin helppoa olikin. Hyvin jäsennelty ohjeistus antoi tilaisuuden harjoitella uudessa repositoriossa asioita joita en ollut ennen kokeillut kuten committien perumista (git revert) ja aiempien committien tarkastelua (git checkout *commit hash*). Myös git log oli uusi tuttavuus, aiemmin olen tarkastellut commit historiaa vain GitHubin GUI:n avulla.
+
+Ehdin tekemään osan harjoituksista ennen kuin tajusin moodlesta löytyvät ohjeet päiväkirjaan, koska jatkoin vain https://mruonavaara.github.io/git-versionhallinta/ sivustolla eteenpäin tarkistamatta moodlea välissä. Näin ollen osa käytetyistä komennoista tässä päiväkirjassa saattoi jäädä kirjaamatta.
 
 ## Osiossa käyttämäni Git-komennot
 
@@ -18,3 +20,5 @@ Kaikki oli suhteellisen helppoa. Hyvin jäsennelty ohjeistus antoi kuitenkin til
 | git switch - | Palaa haaraan, josta checkout tehtiin. |
 | git reset --staged *poistettavan tiedoston/hakemiston nimi* | Peruuta git add -komennolla tehty talletuksen valmistelu määritellylle kohteelle. |
 | git revert *commitin hash* | Tee käänteinen commit kyseisestä commitista eli peruuta se. |
+| git branch *uuden haaran nimi* | Luo uusi haara annetulla nimellä  |
+| git merge *yhdistettävän haaran nimi* | Yhdistää merge toiminnolla nimetyn haaran nykyiseen haaraan  |
